@@ -1,0 +1,4 @@
+C:\Users\Administrator\AndroidstudioProjects\GSMonitorApp\app\build\intermediates\classes\debug
+C:\Users\Administrator\AndroidstudioProjects\GSMonitorApp\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-c9e63e0d2f66ba915df2779f44f0a62a08b74fb5.jar
+C:\Users\Administrator\AndroidstudioProjects\GSMonitorApp\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4775250175982db5066a9f897377a0264b4474eb.jar
+C:\Users\Administrator\AndroidstudioProjects\GSMonitorApp\app\build\intermediates\pre-dexed\debug\classes-b836499a70418de46dcd2ac14efe4ae429d70786.jar
